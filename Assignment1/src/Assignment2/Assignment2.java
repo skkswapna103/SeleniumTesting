@@ -2,9 +2,9 @@ package Assignment2;
 
 public class Assignment2 
 {
-	public int sum(int a, int b)
+	public int sum(int k, int b)
 	{
-		int c=a+b;
+		int c=k+b;
 		return c;
 	}
 	public int sub(int x, int y)
